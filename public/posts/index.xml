@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blogghetto - Manga &amp; Anime</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blogghetto - Manga &amp; Anime</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <copyright>© 2024 Blogghetto</copyright>
+    <lastBuildDate>Sun, 04 Feb 2024 10:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berserk: L&#39;Eclisse e il Destino di Gatsu</title>
+      <link>//localhost:1313/posts/berserk-eclisse/</link>
+      <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/berserk-eclisse/</guid>
+      <description>&lt;p&gt;Berserk non è solo una storia di spade e mostri. È una riflessione brutale sulla causalità, sull&amp;rsquo;ambizione e sulla resilienza dello spirito umano di fronte all&amp;rsquo;orrore assoluto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;leclisse-il-punto-di-svolta&#34;&gt;L&amp;rsquo;Eclisse: Il Punto di Svolta&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;Eclisse rappresenta uno dei momenti più devastanti della storia del fumetto. Kentaro Miura non si limita a mostrare la violenza, ma distrugge i legami che erano stati costruiti con tanta fatica durante l&amp;rsquo;Età dell&amp;rsquo;Oro.&lt;/p&gt;&#xA;&lt;p&gt;La trasformazione di Griffith in Pherod non è solo un tradimento fisico, ma un tradimento di ideali. Per il suo &amp;ldquo;sogno&amp;rdquo;, Griffith sacrifica tutto ciò che lo rendeva umano.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evangelion: Tra Psicologia e Mecha</title>
+      <link>//localhost:1313/posts/evangelion-riflessioni/</link>
+      <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/evangelion-riflessioni/</guid>
+      <description>&lt;p&gt;Neon Genesis Evangelion non è solo un anime di robot giganti. È un viaggio profondo nella psiche umana, un&amp;rsquo;esplorazione del dolore, della solitudine e della necessità di connessione.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lindividuo-e-laltro&#34;&gt;L&amp;rsquo;individuo e l&amp;rsquo;Altro&lt;/h2&gt;&#xA;&lt;p&gt;Il &amp;ldquo;Dilemma del Porcospino&amp;rdquo; è forse il concetto più centrale dell&amp;rsquo;opera. Come possiamo avvicinarci agli altri senza ferirci a vicenda? Anno Hideaki utilizza i mecha e gli Angeli come metafore delle barriere emotive che costruiamo attorno a noi.&lt;/p&gt;&#xA;&lt;p&gt;Shinji Ikari rappresenta l&amp;rsquo;adolescente universale, perso in un mondo che gli chiede troppo e gli dà troppo poco. La sua lotta non è solo contro gli Angeli, ma contro il proprio senso di inutilità.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

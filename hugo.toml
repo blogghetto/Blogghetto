@@ -1,0 +1,9 @@
+baseURL = '/'
+languageCode = 'it'
+title = 'Blogghetto - Manga & Anime'
+copyright = '© 2024 Blogghetto'
+
+[params]
+    description = 'Pensieri e riflessioni su manga e anime.'
+    author = 'Blogghetto'
+    japanese_style = true

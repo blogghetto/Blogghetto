@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="hero">
+    <img src="/images/yuji.webp" alt="Yuji Itadori" class="hero-banner">
+</section>
+
+<div class="containerMain">
+    <section class="posts">
+        <h2 class="section-title">Testi Recenti</h2>
+        <div class="post-list">
+            {{ range (where .Site.RegularPages "Section" "posts") }}
+            <article class="post-item">
+                <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "02 Gen 2006" }}</time>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="summary">{{ .Summary | plainify | truncate 150 }}</p>
+            </article>
+            {{ end }}
+        </div>
+    </section>
+</div>
+{{ end }}
