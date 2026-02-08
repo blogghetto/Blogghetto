@@ -2,7 +2,7 @@
 <section class="hero">
     {{ $img := resources.Get "images/yuji.webp" }}
     {{ if $img }}
-    {{ $resized := $img.Resize "900x webp" }}
+    {{ $resized := $img.Resize "250x webp" }}
     <img src="{{ $resized.RelPermalink }}" alt="Yuji Itadori" class="hero-banner">
     {{ else }}
     <img src="{{ " images/yuji.webp" | relURL }}" alt="Yuji Itadori" class="hero-banner">

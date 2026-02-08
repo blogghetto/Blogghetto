@@ -22,7 +22,7 @@
 
     {{ $hero := resources.Get "images/yuji.webp" }}
     {{ if $hero }}
-    {{ $hero_resized := $hero.Resize "900x webp" }}
+    {{ $hero_resized := $hero.Resize "250x webp" }}
     <meta property="og:image" content="{{ $hero_resized.Permalink }}">
     {{ else }}
     <meta property="og:image" content="{{ " images/yuji.webp" | absURL }}">
@@ -36,7 +36,7 @@
     <meta property="twitter:description"
         content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
     {{ if $hero }}
-    {{ $hero_resized := $hero.Resize "900x webp" }}
+    {{ $hero_resized := $hero.Resize "250x webp" }}
     <meta property="twitter:image" content="{{ $hero_resized.Permalink }}">
     {{ else }}
     <meta property="twitter:image" content="{{ " images/yuji.webp" | absURL }}">
