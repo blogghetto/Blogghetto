@@ -1,6 +1,12 @@
 {{ define "main" }}
 <section class="hero">
-    <img src="{{ "images/yuji.webp" | relURL }}" alt="Yuji Itadori" class="hero-banner">
+    {{ $img := resources.Get "images/yuji.webp" }}
+    {{ if $img }}
+    {{ $resized := $img.Resize "900x webp" }}
+    <img src="{{ $resized.RelPermalink }}" alt="Yuji Itadori" class="hero-banner">
+    {{ else }}
+    <img src="{{ " images/yuji.webp" | relURL }}" alt="Yuji Itadori" class="hero-banner">
+    {{ end }}
 </section>
 
 <div class="containerMain">

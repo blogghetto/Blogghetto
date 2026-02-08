@@ -1,9 +1,9 @@
 baseURL = 'https://blogghetto.github.io/Blogghetto/'
 languageCode = 'it'
-title = 'Blogghetto - Manga & Anime'
-copyright = '© 2024 Blogghetto'
+title = 'Oltre il Velo'
+copyright = '© 2024 Oltre il Velo'
 
 [params]
     description = 'Pensieri e riflessioni su manga e anime.'
-    author = 'Blogghetto'
+    author = 'Oltre il Velo'
     japanese_style = true

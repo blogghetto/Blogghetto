@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blogghetto - Manga &amp; Anime</title>
-    <link>http://localhost:1313/Blogghetto/tags/</link>
-    <description>Recent content in Tags on Blogghetto - Manga &amp; Anime</description>
+    <title>Tags on Oltre il Velo</title>
+    <link>https://blogghetto.github.io/Blogghetto/tags/</link>
+    <description>Recent content in Tags on Oltre il Velo</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <copyright>© 2024 Blogghetto</copyright>
+    <copyright>© 2024 Oltre il Velo</copyright>
     <lastBuildDate>Sun, 04 Feb 2024 10:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/Blogghetto/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blogghetto.github.io/Blogghetto/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berserk</title>
-      <link>http://localhost:1313/Blogghetto/tags/berserk/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/berserk/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/berserk/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/berserk/</guid>
       <description></description>
     </item>
     <item>
       <title>Kentaro Miura</title>
-      <link>http://localhost:1313/Blogghetto/tags/kentaro-miura/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/kentaro-miura/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/kentaro-miura/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/kentaro-miura/</guid>
       <description></description>
     </item>
     <item>
       <title>Manga</title>
-      <link>http://localhost:1313/Blogghetto/tags/manga/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/manga/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/manga/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/manga/</guid>
       <description></description>
     </item>
     <item>
       <title>Anime</title>
-      <link>http://localhost:1313/Blogghetto/tags/anime/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/anime/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/anime/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/anime/</guid>
       <description></description>
     </item>
     <item>
       <title>Neon Genesis Evangelion</title>
-      <link>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/neon-genesis-evangelion/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/neon-genesis-evangelion/</guid>
       <description></description>
     </item>
     <item>
       <title>Riflessioni</title>
-      <link>http://localhost:1313/Blogghetto/tags/riflessioni/</link>
+      <link>https://blogghetto.github.io/Blogghetto/tags/riflessioni/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>http://localhost:1313/Blogghetto/tags/riflessioni/</guid>
+      <guid>https://blogghetto.github.io/Blogghetto/tags/riflessioni/</guid>
       <description></description>
     </item>
   </channel>
