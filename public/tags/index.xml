@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blogghetto - Manga &amp; Anime</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/Blogghetto/tags/</link>
     <description>Recent content in Tags on Blogghetto - Manga &amp; Anime</description>
     <generator>Hugo</generator>
     <language>it</language>
     <copyright>© 2024 Blogghetto</copyright>
     <lastBuildDate>Sun, 04 Feb 2024 10:00:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blogghetto/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berserk</title>
-      <link>//localhost:1313/tags/berserk/</link>
+      <link>http://localhost:1313/Blogghetto/tags/berserk/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/berserk/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/berserk/</guid>
       <description></description>
     </item>
     <item>
       <title>Kentaro Miura</title>
-      <link>//localhost:1313/tags/kentaro-miura/</link>
+      <link>http://localhost:1313/Blogghetto/tags/kentaro-miura/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/kentaro-miura/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/kentaro-miura/</guid>
       <description></description>
     </item>
     <item>
       <title>Manga</title>
-      <link>//localhost:1313/tags/manga/</link>
+      <link>http://localhost:1313/Blogghetto/tags/manga/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/manga/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/manga/</guid>
       <description></description>
     </item>
     <item>
       <title>Anime</title>
-      <link>//localhost:1313/tags/anime/</link>
+      <link>http://localhost:1313/Blogghetto/tags/anime/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/anime/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/anime/</guid>
       <description></description>
     </item>
     <item>
       <title>Neon Genesis Evangelion</title>
-      <link>//localhost:1313/tags/neon-genesis-evangelion/</link>
+      <link>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/neon-genesis-evangelion/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</guid>
       <description></description>
     </item>
     <item>
       <title>Riflessioni</title>
-      <link>//localhost:1313/tags/riflessioni/</link>
+      <link>http://localhost:1313/Blogghetto/tags/riflessioni/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>//localhost:1313/tags/riflessioni/</guid>
+      <guid>http://localhost:1313/Blogghetto/tags/riflessioni/</guid>
       <description></description>
     </item>
   </channel>

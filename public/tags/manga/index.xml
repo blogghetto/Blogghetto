@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manga on Blogghetto - Manga &amp; Anime</title>
-    <link>//localhost:1313/tags/manga/</link>
+    <link>http://localhost:1313/Blogghetto/tags/manga/</link>
     <description>Recent content in Manga on Blogghetto - Manga &amp; Anime</description>
     <generator>Hugo</generator>
     <language>it</language>
     <copyright>© 2024 Blogghetto</copyright>
     <lastBuildDate>Sun, 04 Feb 2024 10:00:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/manga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blogghetto/tags/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berserk: L&#39;Eclisse e il Destino di Gatsu</title>
-      <link>//localhost:1313/posts/berserk-eclisse/</link>
+      <link>http://localhost:1313/Blogghetto/posts/berserk-eclisse/</link>
       <pubDate>Sun, 04 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/berserk-eclisse/</guid>
+      <guid>http://localhost:1313/Blogghetto/posts/berserk-eclisse/</guid>
       <description>&lt;p&gt;Berserk non è solo una storia di spade e mostri. È una riflessione brutale sulla causalità, sull&amp;rsquo;ambizione e sulla resilienza dello spirito umano di fronte all&amp;rsquo;orrore assoluto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;leclisse-il-punto-di-svolta&#34;&gt;L&amp;rsquo;Eclisse: Il Punto di Svolta&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;Eclisse rappresenta uno dei momenti più devastanti della storia del fumetto. Kentaro Miura non si limita a mostrare la violenza, ma distrugge i legami che erano stati costruiti con tanta fatica durante l&amp;rsquo;Età dell&amp;rsquo;Oro.&lt;/p&gt;&#xA;&lt;p&gt;La trasformazione di Griffith in Pherod non è solo un tradimento fisico, ma un tradimento di ideali. Per il suo &amp;ldquo;sogno&amp;rdquo;, Griffith sacrifica tutto ciò che lo rendeva umano.&lt;/p&gt;</description>
     </item>
   </channel>

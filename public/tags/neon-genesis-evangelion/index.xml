@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neon Genesis Evangelion on Blogghetto - Manga &amp; Anime</title>
-    <link>//localhost:1313/tags/neon-genesis-evangelion/</link>
+    <link>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</link>
     <description>Recent content in Neon Genesis Evangelion on Blogghetto - Manga &amp; Anime</description>
     <generator>Hugo</generator>
     <language>it</language>
     <copyright>© 2024 Blogghetto</copyright>
     <lastBuildDate>Sat, 03 Feb 2024 15:45:00 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/neon-genesis-evangelion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evangelion: Tra Psicologia e Mecha</title>
-      <link>//localhost:1313/posts/evangelion-riflessioni/</link>
+      <link>http://localhost:1313/Blogghetto/posts/evangelion-riflessioni/</link>
       <pubDate>Sat, 03 Feb 2024 15:45:00 +0100</pubDate>
-      <guid>//localhost:1313/posts/evangelion-riflessioni/</guid>
+      <guid>http://localhost:1313/Blogghetto/posts/evangelion-riflessioni/</guid>
       <description>&lt;p&gt;Neon Genesis Evangelion non è solo un anime di robot giganti. È un viaggio profondo nella psiche umana, un&amp;rsquo;esplorazione del dolore, della solitudine e della necessità di connessione.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lindividuo-e-laltro&#34;&gt;L&amp;rsquo;individuo e l&amp;rsquo;Altro&lt;/h2&gt;&#xA;&lt;p&gt;Il &amp;ldquo;Dilemma del Porcospino&amp;rdquo; è forse il concetto più centrale dell&amp;rsquo;opera. Come possiamo avvicinarci agli altri senza ferirci a vicenda? Anno Hideaki utilizza i mecha e gli Angeli come metafore delle barriere emotive che costruiamo attorno a noi.&lt;/p&gt;&#xA;&lt;p&gt;Shinji Ikari rappresenta l&amp;rsquo;adolescente universale, perso in un mondo che gli chiede troppo e gli dà troppo poco. La sua lotta non è solo contro gli Angeli, ma contro il proprio senso di inutilità.&lt;/p&gt;</description>
     </item>
   </channel>

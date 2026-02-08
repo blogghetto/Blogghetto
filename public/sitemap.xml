@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/berserk/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/berserk/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/berserk-eclisse/</loc>
+    <loc>http://localhost:1313/Blogghetto/posts/berserk-eclisse/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/Blogghetto/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/kentaro-miura/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/kentaro-miura/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/manga/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/manga/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/Blogghetto/posts/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/</loc>
     <lastmod>2024-02-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/Blogghetto/about/</loc>
     <lastmod>2024-02-03T15:50:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/anime/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/anime/</loc>
     <lastmod>2024-02-03T15:45:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/evangelion-riflessioni/</loc>
+    <loc>http://localhost:1313/Blogghetto/posts/evangelion-riflessioni/</loc>
     <lastmod>2024-02-03T15:45:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/neon-genesis-evangelion/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/neon-genesis-evangelion/</loc>
     <lastmod>2024-02-03T15:45:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/riflessioni/</loc>
+    <loc>http://localhost:1313/Blogghetto/tags/riflessioni/</loc>
     <lastmod>2024-02-03T15:45:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/Blogghetto/categories/</loc>
   </url>
 </urlset>
